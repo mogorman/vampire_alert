@@ -12,6 +12,7 @@ const char* password = "0123456789abcdef";
 const char* host = "orlock";
 const char* mqtt_server = "home.rldn.net";
 
+//#define LED 16 on my yellow board
 #define LED 2
 #define PWMA 5
 #define MOTOR_SPEED 200
